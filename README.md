@@ -1,1 +1,1 @@
-# weather-website
+WeatherTimeHub provides real-time weather updates alongside accurate time and date data, offering users a seamless experience for staying informed and prepared in any situation. With intuitive navigation and customizable features, WeatherTimeHub is your go-to destination for comprehensive weather information and precise timekeeping.
